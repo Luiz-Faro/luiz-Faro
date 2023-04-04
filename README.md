@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Luiz Faro</h1>
-<h3 align="center">Um engenheiro trabalhando forte para atuar como cientista de dados, apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
+<h3 align="center">Um engenheiro caminhando para atuar como cientista de dados, apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiz-faro&label=Profile%20views&color=0e75b6&style=flat" alt="luiz-faro" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente eu trabalho como facilitador de cursos na [Escola DNC](https://www.escoladnc.com.br/)
 
-- 🌱 Atualmente estou aprendendo **Redes neurais e Modelos Supervisionados**
+- 🌱 Atualmente estou aprendendo **Redes Neurais e Modelos Supervisionados**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Luiz-Faro/Projetos-Data-Science](https://github.com/Luiz-Faro/Projetos-Data-Science)
 
@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/luizferdinand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/luizferdinand" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/luizfernando.piginifaro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/luizfernando.piginifaro/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/luizz_fernando/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/luizz_fernando/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luiz fernando pigini faro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz fernando pigini faro" height="30" width="40" /></a>
+<a href="https://kaggle.com/luizferdinand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="luizferdinand" height="30" width="40" /></a>
+<a href="https://fb.com/luiz fernando pigini faro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luiz fernando pigini faro" height="30" width="40" /></a>
+<a href="https://instagram.com/luizz_fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luizz_fernando" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
