@@ -1,13 +1,15 @@
 <h1 align="center">Olá 👋, eu sou o Luiz Faro</h1>
-<h3 align="center">Um cientista de dados apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
+<h3 align="center">Um engenheiro trabalhando forte para atuar como cientista de dados, apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiz-faro&label=Profile%20views&color=0e75b6&style=flat" alt="luiz-faro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiz-faro" alt="luiz-faro" /></a> </p>
 
-- 🔭 Atualmente eu trabalho na [Escola DNC](https://www.escoladnc.com.br/)
+- 🔭 Atualmente eu trabalho como facilitador de cursos na [Escola DNC](https://www.escoladnc.com.br/)
 
 - 🌱 Atualmente estou aprendendo **Redes neurais e Modelos Supervisionados**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Luiz-Faro/Projetos-Data-Science](https://github.com/Luiz-Faro/Projetos-Data-Science)
 
 - 💬 Me pergunte sobre **Tecnologia, Ciência de Dados, Inteligência Artificial, Projetos de inovação e etc. Ficarei feliz em ajudar =D**
 
