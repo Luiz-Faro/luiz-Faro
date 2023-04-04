@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Luiz Faro</h1>
-<h3 align="center">Um engenheiro caminhando para atuar como cientista de dados, apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
+<h3 align="center">Um engenheiro na jornada para atuar como cientista de dados, apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiz-faro&label=Profile%20views&color=0e75b6&style=flat" alt="luiz-faro" /> </p>
 
