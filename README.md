@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiz-faro" alt="luiz-faro" /></a> </p>
 
-- 🔭 Atualmente eu trabalho como facilitador de cursos na [Escola DNC](https://www.escoladnc.com.br/)
+- 🔭 Atualmente eu trabalho como analista de projetos no [Grupo SBF](https://ri.gruposbf.com.br/) e facilitador de cursos de tecnologia na [Escola DNC](https://www.escoladnc.com.br/)
 
 - 🌱 Atualmente estou aprendendo **Redes Neurais e Modelos Supervisionados**
 
