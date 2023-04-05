@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Luiz Faro</h1>
-<h3 align="center">Um engenheiro na jornada para atuar como cientista de dados, apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
+<h3 align="center">Em uma jornada para atuar como cientista de dados, apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiz-faro&label=Profile%20views&color=0e75b6&style=flat" alt="luiz-faro" /> </p>
 
@@ -11,13 +11,13 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Luiz-Faro/Projetos-Data-Science](https://github.com/Luiz-Faro/Projetos-Data-Science)
 
-- 💬 Me pergunte sobre **Tecnologia, Ciência de Dados, Inteligência Artificial, Projetos de inovação e etc. Ficarei feliz em ajudar =D**
+- 💬 Me pergunte sobre **Tecnologia, Ciência de Dados, Inteligência Artificial, Projetos de inovação e etc.** Ficarei feliz em ajudar =D
 
-- 📫 Fale comigo **luiz.pigini@gmail.com**
+- 📫 Fale comigo pelo e-mail **luiz.pigini@gmail.com**
 
 - 📄 Saiba mais sobre minhas experiências de trabalho [https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
 
-- ⚡ Curiosidade **Praticante de jiu-jitsu, apaixonado por artes marciais! Oss**
+- ⚡ Curiosidade ** sou praticante de jiu-jitsu, apaixonado por artes marciais! Oss**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
