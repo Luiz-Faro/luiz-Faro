@@ -1,8 +1,9 @@
 <h1 align="center">Olá 👋, eu sou o Luiz Faro</h1>
-<h3 align="center">Em uma jornada para atuar como cientista de dados, apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
+<h3 align="center">Em uma jornada para atuar como Cientista de Dados, apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
 <h3 align="center">On a journey to become a Data Scientist, passionate about sharing knowledge and learning how things work!!</h3>
 
 - 🔭 Atualmente eu trabalho como analista de projetos no [Grupo SBF](https://ri.gruposbf.com.br/) e facilitador de cursos de tecnologia na [Escola DNC](https://www.escoladnc.com.br/)
+- 🔭I currently work as a project analyst at [SBF Group](https://ri.gruposbf.com.br/) and technology course facilitator at [Escola DNC](https://www.escoladnc.com.br/ )
 
 - 🌱 Atualmente estou aprendendo **Redes Neurais e Modelos Supervisionados**
 
