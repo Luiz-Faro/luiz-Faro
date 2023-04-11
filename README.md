@@ -18,7 +18,7 @@
 > 📫 Talk to me by email **luiz.pigini@gmail.com**
 
 - 📄 Saiba mais sobre minhas experiências de trabalho [https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
-> 📄 Learn more about my work experiences [https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/](https://www.linkedin.com/in/luiz-fernando-pigini- faro-8a34a3182/)
+> 📄 Learn more about my work experiences [https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
 
 - ⚡ Curiosidade **sou praticante de jiu-jitsu, apaixonado por artes marciais! Oss**
 > ⚡ Curiosity **i'm a jiu-jitsu practitioner, passionate about martial arts! Oss**
