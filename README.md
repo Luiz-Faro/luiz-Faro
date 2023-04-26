@@ -2,6 +2,8 @@
 <h3 align="center">Em uma jornada para atuar como Cientista de Dados, apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
 <h3 align="center">On a journey to become a Data Scientist, passionate about sharing knowledge and learning how things work!</h3>
 
+- Acesse meu portfolio de projetos em [Portfolio Luiz](https://github.com/Luiz-Faro/Luiz-Portfolio)
+
 - 🔭 Atualmente eu trabalho como analista de projetos no [Grupo SBF](https://ri.gruposbf.com.br/) e facilitador de cursos de tecnologia na [Escola DNC](https://www.escoladnc.com.br/)
 > I currently work as a project analyst at [SBF Group](https://ri.gruposbf.com.br/) and technology course facilitator at [Escola DNC](https://www.escoladnc.com.br/ )
 
