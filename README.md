@@ -2,7 +2,10 @@
 <h3 align="center">Em uma jornada para atuar como Cientista de Dados, apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
 <h3 align="center">On a journey to become a Data Scientist, passionate about sharing knowledge and learning how things work!</h3>
 
-- Acesse meu portfolio de projetos em [Portfolio Luiz](https://github.com/Luiz-Faro/Luiz-Portfolio)
+
+
+- :octocat: Acesse meu portifolio no git pages em [Portfolio Luiz](https://github.com/Luiz-Faro/Luiz-Portfolio) para conhecer mais do meu trabalho!
+> Access my portfolio on git pages at [Portfolio Luiz](https://github.com/Luiz-Faro/Luiz-Portfolio) to learn more about my work!
 
 - 🔭 Atualmente eu trabalho como analista de projetos no [Grupo SBF](https://ri.gruposbf.com.br/) e facilitador de cursos de tecnologia na [Escola DNC](https://www.escoladnc.com.br/)
 > I currently work as a project analyst at [SBF Group](https://ri.gruposbf.com.br/) and technology course facilitator at [Escola DNC](https://www.escoladnc.com.br/ )
@@ -22,7 +25,7 @@
 - 📄 Saiba mais sobre minhas experiências de trabalho [https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
 > Learn more about my work experiences [https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
 
-- ⚡ Curiosidade **sou praticante de jiu-jitsu, apaixonado por artes marciais! Oss**
+- :mechanical_arm: Curiosidade **sou praticante de jiu-jitsu, apaixonado por artes marciais! Oss**
 > Curiosity **i'm a jiu-jitsu practitioner, passionate about martial arts! Oss**
 
 <h3 align="left">Connect with me:</h3>
