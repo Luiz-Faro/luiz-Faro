@@ -4,8 +4,8 @@
 
 
 
-- :octocat: Acesse meu portfolio no git pages em [Portfolio Luiz](https://luiz-faro.github.io/Luiz-Portfolio/) para conhecer mais do meu trabalho!
-> Access my portfolio on git pages at [Portfolio Luiz]([https://github.com/Luiz-Faro/Luiz-Portfolio](https://luiz-faro.github.io/Luiz-Portfolio/)) to learn more about my work!
+- :octocat: Acesse meu [portfolio](https://luiz-faro.github.io/Luiz-Portfolio/) no git pages em para conhecer mais do meu trabalho!
+> Access my [portfolio](https://luiz-faro.github.io/Luiz-Portfolio/) on git pages at to see more off my work!
 
 - 🔭 Atualmente eu trabalho como analista de projetos no [Grupo SBF](https://ri.gruposbf.com.br/) e facilitador de cursos de tecnologia na [Escola DNC](https://www.escoladnc.com.br/)
 > I currently work as a project analyst at [SBF Group](https://ri.gruposbf.com.br/) and technology course facilitator at [Escola DNC](https://www.escoladnc.com.br/ )
