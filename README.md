@@ -7,13 +7,13 @@
 
 - 🌱 Atualmente estou aprendendo **Redes Neurais e Modelos Supervisionados**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Luiz-Faro/Projetos-Data-Science](https://github.com/Luiz-Faro/Projetos-Data-Science)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [Repositório de Data Science](https://github.com/Luiz-Faro/Projetos-Data-Science)
 
 - 💬 Me pergunte sobre **Tecnologia, Ciência de Dados, Inteligência Artificial, Projetos de inovação e etc.** Ficarei feliz em ajudar =D
 
 - 📫 Fale comigo pelo e-mail **luiz.pigini@gmail.com**
 
-- 📄 Saiba mais sobre minhas experiências de trabalho [https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
+- 📄 Saiba mais sobre minhas experiências de trabalho [meu perfil no linkedin](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
 
 - :mechanical_arm: Curiosidade **sou praticante de jiu-jitsu, apaixonado por artes marciais! Oss**
 
@@ -27,11 +27,11 @@
 
 - I'm currently learning **Neural Networks and Supervised Models**
 
-- All my projects are available at [https://github.com/Luiz-Faro/Projetos-Data-Science](https://github.com/Luiz-Faro/Projetos-Data-Science)
+- All my projects are available at [Data Science repo](https://github.com/Luiz-Faro/Projetos-Data-Science)
 
 - Ask me about **Technology, Data Science, Artificial Intelligence, Innovation projects and etc.** I'll be happy to help =D
 
-- Learn more about my work experiences [https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
+- Learn more about my work experiences [my linkedin profile](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
 
 - Curiosity **i'm a jiu-jitsu practitioner, passionate about martial arts! Oss**
 
