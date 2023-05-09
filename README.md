@@ -1,54 +1,39 @@
-<h1 align="center">Olá 👋, eu sou o Luiz Faro</h1>
-<h3 align="center">Em uma jornada para me tornar um Cientista de Dados, apaixonado por compartilhar conhecimento e aprender como as coisas funcionam!</h3>
-
-- :octocat: Acesse meu [portfolio](https://luiz-faro.github.io/Luiz-Portfolio/) no git pages em para conhecer mais do meu trabalho!
-
-- 🔭 Atualmente eu trabalho como analista de projetos no [Grupo SBF](https://ri.gruposbf.com.br/) e facilitador de cursos de tecnologia na [Escola DNC](https://www.escoladnc.com.br/)
-
-- 🌱 Atualmente estou aprendendo **Redes Neurais e Modelos Supervisionados**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [Repositório de Data Science](https://github.com/Luiz-Faro/Projetos-Data-Science)
-
-- 💬 Me pergunte sobre **Tecnologia, Ciência de Dados, Inteligência Artificial, Projetos de inovação e etc.** Ficarei feliz em ajudar =D
-
-- 📫 Fale comigo pelo e-mail **luiz.pigini@gmail.com**
-
-- 📄 Saiba mais sobre minhas experiências de trabalho [meu perfil no linkedin](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
-
-- :mechanical_arm: Curiosidade **sou praticante de jiu-jitsu, apaixonado por artes marciais! Oss**
-
-**English sub**
-
+# 💫 About Me:
 <h3 align="center">On a journey to become a Data Scientist, passionate about sharing knowledge and learning how things work!</h3>
 
-- Access my [portfolio](https://luiz-faro.github.io/Luiz-Portfolio/) on git pages at to see more off my work!
+- :octocat: Access my [portfolio](https://luiz-faro.github.io/Luiz-Portfolio/) on git pages at to see more off my work!
 
-- I currently work as a project analyst at [SBF Group](https://ri.gruposbf.com.br/) and technology course facilitator at [Escola DNC](https://www.escoladnc.com.br/ )
+- 🔭 I currently work as a project analyst at [SBF Group](https://ri.gruposbf.com.br/) and technology course facilitator at [Escola DNC](https://www.escoladnc.com.br/ )
 
-- I'm currently learning **Neural Networks and Supervised Models**
+- 🌱 I'm currently learning **Neural Networks and Supervised Models**
 
-- All my projects are available at [Data Science repo](https://github.com/Luiz-Faro/Projetos-Data-Science)
+- 👨‍💻 All my projects are available at [Data Science repo](https://github.com/Luiz-Faro/Projetos-Data-Science)
 
-- Ask me about **Technology, Data Science, Artificial Intelligence, Innovation projects and etc.** I'll be happy to help =D
+- 💬 Ask me about **Technology, Data Science, Artificial Intelligence, Innovation projects and etc.** I'll be happy to help =D
 
-- Learn more about my work experiences [my linkedin profile](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
+- 📫 Reache me via e-mail **luiz.pigini@gmail.com**
 
-- Curiosity **i'm a jiu-jitsu practitioner, passionate about martial arts! Oss**
+- 📄 Learn more about my work experiences [my linkedin profile](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
+
+- :mechanical_arm: Curiosity **i'm a jiu-jitsu practitioner, passionate about martial arts! Oss**
 
 
-<h3 align="left">Conecte-se comigo / Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luiz fernando pigini faro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz fernando pigini faro" height="30" width="40" /></a>
-<a href="https://kaggle.com/luizferdinand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="luizferdinand" height="30" width="40" /></a>
-<a href="https://fb.com/luiz fernando pigini faro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luiz fernando pigini faro" height="30" width="40" /></a>
-<a href="https://instagram.com/luizz_fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luizz_fernando" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Luiz-Faro#1969) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/luizfernando.piginifaro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Luizz_Fernando) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182) 
 
-<h3 align="left">Linguagens e ferramentas / Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Luiz-Faro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Luiz-Faro&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Faro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiz-faro&show_icons=true&locale=en&layout=compact" alt="luiz-faro" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Luiz-Faro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiz-faro&show_icons=true&locale=en" alt="luiz-faro" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-faro&" alt="luiz-faro" /></p>
+[![](https://visitcount.itsvg.in/api?id=Luiz-Faro&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
