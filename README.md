@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Technology, Data Science, Artificial Intelligence, Innovation projects and etc.** I'll be happy to help =D
 
-- 📫 Reache me via e-mail **luiz.pigini@gmail.com**
+- 📫 Reach me via e-mail **luiz.pigini@gmail.com**
 
 - 📄 Learn more about my work experiences [my linkedin profile](https://www.linkedin.com/in/luiz-fernando-pigini-faro-8a34a3182/)
 
