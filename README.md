@@ -3,7 +3,7 @@
 
 - :octocat: Access my [portfolio](https://luiz-faro.github.io/Luiz-Portfolio/) on git pages at to see more off my work!
 
-- 🔭 I currently work as a project analyst at [Daki](https://soudaki.com/?srsltid=AfmBOoqtuK-zs7ziKE6XQwOwe_sQ2YnWWr8jH8u5tkCK72wTI9t-Q2Hx) and technology course facilitator at [Escola DNC](https://www.escoladnc.com.br/ )
+- 🔭 I currently work as a Master Data Coordinator at [Daki](https://soudaki.com/?srsltid=AfmBOoqtuK-zs7ziKE6XQwOwe_sQ2YnWWr8jH8u5tkCK72wTI9t-Q2Hx) and technology course facilitator at [Escola DNC](https://www.escoladnc.com.br/ )
 
 - 🌱 I'm currently learning **Neural Networks and Supervised Models**
 
